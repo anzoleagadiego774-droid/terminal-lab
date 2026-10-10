@@ -1,3 +1,1 @@
-Mi primera practica de Git
-Cambio para practicar revert
-Cambio realizado en la rama de prueba
+Mi primer archivo de prueba
