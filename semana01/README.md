@@ -1,26 +1,22 @@
 # Semana 01 - Fundamentos y sistema de archivos
 
 ## Qué hace
-
-Una o dos frases que expliquen qué resuelve el script.
+El script `explorar-sistema.sh` muestra información básica del sistema operativo, como el usuario actual, el directorio de trabajo, la fecha y hora, el nombre del sistema, la versión del kernel y el espacio disponible en los sistemas de archivos.
 
 ## Archivos
-
-- `explorar-sistema.sh` - script principal.
+- `explorar-sistema.sh`: script principal de exploración del sistema.
 
 ## Cómo se ejecuta
-
 ```bash
 chmod +x explorar-sistema.sh
 ./explorar-sistema.sh
 ```
 
 ## Qué se aprendió
-
-- Punto de aprendizaje 1.
-- Punto de aprendizaje 2.
-- Punto de aprendizaje 3.
+- Ejecutar comandos básicos de Linux.
+- Consultar información del usuario y del sistema.
+- Revisar el espacio disponible con `df -h`.
 
 ## Qué quedó pendiente
+- Continuar con los ejercicios indicados en la guía de laboratorio.
 
-Indicar lo que no se llegó a hacer o la extensión opcional no implementada.
